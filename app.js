@@ -73,9 +73,9 @@ if (edad == "") {
       "No ingresaste contraseña por esta accion se le cancelera el progreso de cuenta"
     );
   } else {
-    alert("Bienvenido a googleFAKE");
+    alert("Bienvenido a googleFAKE PD: Despues de la encuesta siguiente no se porque se cuelga la pagina");
     redtard();
     stop;
   }
 }
-alert("Adios")
+alert("Adios - si no pudiste crear tu cuenta reinicia la pagina")
